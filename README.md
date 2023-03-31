@@ -9,3 +9,7 @@ Italy has an extensive railway network that connects its cities and regions. How
 
 In this particular case, our objective is to determine the shortest path between Milan and Taranto, two cities located at opposite ends of the Italian peninsula. To do so, we used www.thetrainline.com to identify the relevant train stations in Milan and Taranto, as well as any other stations that might lie along the optimal route. We then used Google Earth to calculate the distances between the stations.
 The result of this analysis is a recommended route for travelling from Milan to Taranto that minimizes both the distance and time taken. This information can be of great practical value to anyone planning to travel between these two cities, whether for business, tourism, or any other purpose.
+
+
+
+This project was solved as a requirement for (CS361) Artificial Intelligence Course
